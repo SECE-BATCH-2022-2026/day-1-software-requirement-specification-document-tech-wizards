@@ -11,6 +11,6 @@ The Online Inventory Management System is a robust solution designed to streamli
 - **Automated Reports:** Generate reports for record-keeping and decision-making.
 - **Account Information:** Users can view relevant information about their accounts.
 
-## Usage
+
 
 
