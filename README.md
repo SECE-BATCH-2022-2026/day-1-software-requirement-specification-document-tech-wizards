@@ -13,8 +13,4 @@ The Online Inventory Management System is a robust solution designed to streamli
 
 ## Usage
 
-1. **Installation:** Clone the repository and install dependencies.
-   ```bash
-   git clone https://github.com/your/repository.git
-   cd inventory-management-system
-   npm install
+
